@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "Choi Sung Wook"
-  avatar           : path of avatar image, e.g. "/assets/sungwook.jpg"
+  avatar           : "/assets/sungwook.jpg"
   bio              : "묵묵히 최선을 다하자."
   location         : "경기도 평택시"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
